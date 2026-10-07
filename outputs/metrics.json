@@ -1,0 +1,31 @@
+{
+  "dataset_label": "demo_generated",
+  "data_path": "data/sample_retail_demand.csv",
+  "mae": 4.964,
+  "rmse": 6.642,
+  "mape": 6.08,
+  "baseline_mae": 11.264,
+  "mae_improvement_vs_baseline_pct": 55.931,
+  "train_rows": 27520,
+  "test_rows": 560,
+  "forecast_horizon_days": 14,
+  "model": "Random Forest",
+  "feature_columns": [
+    "price",
+    "promotion",
+    "holiday",
+    "competitor_price",
+    "day_of_week",
+    "month",
+    "is_weekend",
+    "day_of_year",
+    "lag_1",
+    "lag_7",
+    "lag_14",
+    "lag_28",
+    "rolling_mean_7",
+    "rolling_mean_14",
+    "rolling_mean_28"
+  ],
+  "inventory_source": "provided"
+}

@@ -1,0 +1,9 @@
+pandas>=2.2.0
+numpy>=1.26.0
+scikit-learn>=1.4.0
+streamlit>=1.36.0
+plotly>=5.22.0
+joblib>=1.4.0
+kaggle>=2.2.4
+kagglehub>=1.0.2
+lightgbm>=4.7.0

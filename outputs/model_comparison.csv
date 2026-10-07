@@ -1,0 +1,5 @@
+model,mae,rmse,mape,mae_improvement_vs_baseline_pct
+Weekly baseline,11.264,16.713,13.04,0.0
+Random Forest,4.964,6.642,6.08,55.931
+Gradient Boosting (sklearn),4.85,6.363,5.976,56.945
+LightGBM,4.791,6.327,5.923,57.468

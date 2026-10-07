@@ -1,0 +1,16 @@
+feature,importance
+rolling_mean_28,0.7782
+rolling_mean_14,0.0904
+promotion,0.0702
+day_of_week,0.0155
+is_weekend,0.0154
+lag_7,0.0058
+lag_14,0.0042
+day_of_year,0.0037
+price,0.0034
+rolling_mean_7,0.0031
+lag_28,0.003
+holiday,0.0023
+competitor_price,0.0023
+lag_1,0.0021
+month,0.0005

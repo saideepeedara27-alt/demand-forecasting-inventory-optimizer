@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Generated runtime artifacts
+outputs/*.joblib
+
+# Optional large raw datasets
+data/raw/
+data/external/
+data/real/
